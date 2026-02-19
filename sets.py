@@ -3,4 +3,4 @@ set2 = {30,40,60,70}
 #difference of two sets
 print(set1.difference(set2))
 
-print(set2.intersection(set1))
+print(set2.difference(set1))
